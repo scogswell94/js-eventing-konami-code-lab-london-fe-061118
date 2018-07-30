@@ -8,6 +8,7 @@ const body = document.querySelector("body");
 
 body.addEventListener("keydown",function(event) {
 alert("I was keydowned!");
+console.log(code)
   
 })
  console.log(body) 
@@ -16,9 +17,9 @@ alert("I was keydowned!");
 init()
 
 
-const two = [38, 38, 40, 40, 37, 39, 37, 39, 66, 65]
+const  = [38, 38, 40, 40, 37, 39, 37, 39, 66, 65]
  
-console.log(two)
+console.log()
  
 function init() {
   
