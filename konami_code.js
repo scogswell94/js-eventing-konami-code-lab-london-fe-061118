@@ -10,10 +10,11 @@ body.addEventListener("click",function(event) {
 alert("I was clicked!");
   
 })
-  
+ console.log(body) 
 }
 
 init()
+
 
 
 
