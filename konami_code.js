@@ -8,7 +8,8 @@ const body = document.querySelector("body");
 
 body.addEventListener("keydown",function(event) {
 alert("I was keydowned!");
-console.log(event)
+
+console.log(event);
   
 })
  console.log(body) 
