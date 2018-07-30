@@ -6,7 +6,7 @@ function init() {
 
   const body = document.querySelector("body");
 
-  body.addEventListener("keydown",onKeyDownHandler(e))
+  body.addEventListener("keydown",onKeyDownHandler(this))
 
 
 let index = 0;
