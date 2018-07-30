@@ -5,11 +5,11 @@ console.log(code)
 function init() {
  // Write your JavaScript code inside the init() function
 
- const body = document.querySelector(“body”)
+ const body = document.querySelector("body")
 
  let index = 0;
 
- body.addEventListener(“keydown”,
+ body.addEventListener("keydown",
    function(e) {
      const key = parseInt(e.detail || e.which);
    
@@ -20,7 +20,7 @@ function init() {
      }
      
      if (index === code.length) {
-         alert(“Hurray!“);
+         alert("Hurray!");
          index = 0;
      }
    }
