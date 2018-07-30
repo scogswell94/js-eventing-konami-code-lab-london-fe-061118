@@ -10,7 +10,7 @@ function init() {
 const body = document.querySelector("body");
 
 body.addEventListner(‘click’,function(event) {
-alert(‘I was clicked!’);
+alert("I was clicked!");
   
 })
 
