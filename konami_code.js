@@ -7,7 +7,12 @@ function init() {
   // your code here
 }
 
+const main = document.getElementById(‘main’)
 
+main.addEventListner(‘click’,function(event) {
+alert(‘I was clicked!’)
+  
+}
 
 
 
