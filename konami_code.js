@@ -2,7 +2,9 @@ const code = [38, 38, 40, 40, 37, 39, 37, 39, 66, 65]
 
 console.log(code)
 
-length(code)
+function init() {
+  
+}
 
 let index = 0;
 function init() {
@@ -15,19 +17,9 @@ alert("I was keydowned!");
 console.log(event);
   
 })
- console.log(body) 
-}
 
-init()
-
-
-const  = [38, 38, 40, 40, 37, 39, 37, 39, 66, 65]
  
-console.log()
- 
-function init() {
-  
-}
+
 
 
 
