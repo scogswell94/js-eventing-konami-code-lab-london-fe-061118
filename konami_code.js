@@ -4,15 +4,18 @@ console.log(code)
 
 function init() {
   
-  // your code here
-}
-
 const body = document.querySelector("body");
 
 body.addEventListener("click",function(event) {
 alert("I was clicked!");
   
 })
+  
+}
+
+init()
+
+
 
 
 
