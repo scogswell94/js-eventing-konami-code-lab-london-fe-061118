@@ -6,7 +6,7 @@ function init() {
   
 const body = document.querySelector("body");
 
-body.addEventListener("click",function(event) {
+body.addEventListener("keydown",function(event) {
 alert("I was clicked!");
   
 })
