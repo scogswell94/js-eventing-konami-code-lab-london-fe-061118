@@ -13,7 +13,7 @@ alert("I was clicked!");
  console.log(body) 
 }
 
-init()
+
 
 
 
