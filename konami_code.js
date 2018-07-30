@@ -4,6 +4,7 @@ console.log(code)
 
 length(code)
 
+let index = 0;
 function init() {
   
 const body = document.querySelector("body");
